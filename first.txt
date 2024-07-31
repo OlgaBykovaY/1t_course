@@ -3,5 +3,10 @@ k,hhj,ghk,bnbb
 5677788
 hghhjd687578$%^^7uiu7ok
 hjgkjtfrtyehfdxzxfdghjyuygftyuyiytydf
+<<<<<<< HEAD
 jkhggyjkkytutrytfyujkk
 Это строка из основной ветки
+=======
+jkhggyjkkytutrytfyujkkk
+Строка из новой ветки
+>>>>>>> new_branch
